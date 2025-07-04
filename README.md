@@ -26,4 +26,6 @@ THIS REAL-TIME CHAT APPLICATION IS A PRACTICAL IMPLEMENTATION OF FULL-STACK DEVE
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/36c5f5fe-9b7d-4e0f-afe1-2fc39aa16ee4)
+
 
